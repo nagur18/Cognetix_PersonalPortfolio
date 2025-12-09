@@ -94,3 +94,6 @@ This project fulfills the **Personal Portfolio Application requirement** for the
 
 
 
+**Submitted as part of the Cognetix Technology Internship Program.**
+
+
