@@ -83,14 +83,26 @@ bash
  - Java Certification
 ------------------------------------------
 
+## 🖼 Screenshots
+
+### Main Menu
+![Main Menu](menu.png)
+
+### Add Portfolio
+![Add Portfolio](add_record.png)
+
+### Output Display
+![Output Display](output.png)
+
+
 # 📝 Internship Notes
 
 This project fulfills the **Personal Portfolio Application requirement** for the **Cognetix Technology Java Developer Internship – Foundational Level**.
 
 # 🙌 Author
 
-* Your Name:U.Nagur vali
-* Java Developer Intern Candidate
+* Your Name:Nagur vali
+* Java Developer Intern 
 
 
 
